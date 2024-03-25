@@ -8,10 +8,10 @@ The reference code for our paper [TeMO: Towards Text-Driven 3D Stylization for M
 If you find our repo useful for your research, please cite us:
 
 ```
-@inproceedings{zhang2024temo,
+@article{zhang2023temo,
   title={TeMO: Towards Text-Driven 3D Stylization for Multi-Object Meshes},
   author={Zhang, Xuying and Yin, Bo-Wen and Chen, Yuming and Lin, Zheng and Li, Yunheng and Hou, Qibin and Cheng, Ming-Ming},
-  booktitle={IEEE CVPR},
-  year={2024}
+  journal={arXiv preprint arXiv:2312.04248},
+  year={2023}
 }
 ```
