@@ -9,7 +9,7 @@
   <tbody>
     <tr>
      <td class="gif_td1"><img src="images/a-fire-dragon-an-ice-dragon.gif" width="180"/></td>
-     <td class="gif_td2"><img src="images/A garfield cat and a brown horse.gif" width="190"/></td>
+     <td class="gif_td2"><img src="images/A garfield cat and a brown horse.gif" width="180"/></td>
      <td class="gif_td3"><img src="images/a wicker vase and a candle in jeans.gif.gif" width="180"/></td>
      <td class="gif_td4"><img src="images/superman-ice-whale-fire-dragon.gif" width="180"/></td>
    </tr>
