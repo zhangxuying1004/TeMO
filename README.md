@@ -8,16 +8,16 @@
 <table class="gif_table">
   <tbody>
     <tr>
-     <td class="gif_td1"><img src="images/a-fire-dragon-an-ice-dragon.gif" width="190"/></td>
+     <td class="gif_td1"><img src="images/a-fire-dragon-an-ice-dragon.gif" width="180"/></td>
      <td class="gif_td2"><img src="images/A garfield cat and a brown horse.gif" width="190"/></td>
-     <td class="gif_td3"><img src="images/a wicker vase and a candle in jeans.gif.gif" width="190"/></td>
-     <td class="gif_td4"><img src="images/superman-ice-whale-fire-dragon.gif" width="190"/></td>
+     <td class="gif_td3"><img src="images/a wicker vase and a candle in jeans.gif.gif" width="180"/></td>
+     <td class="gif_td4"><img src="images/superman-ice-whale-fire-dragon.gif" width="180"/></td>
    </tr>
     <tr>
-     <td class="gif_td1"><img src="images/A ginger cat is sitting on a grey leather sofa.gif" width="190"/></td>
-     <td class="gif_td2"><img src="images/The batman is laying on a brick bed.gif" width="190"/></td>
-     <td class="gif_td3"><img src="images/A brown squirrel is sitting on a bark chair.gif" width="190"/></td>
-     <td class="gif_td4"><img src="images/A blue steel lamp and a cactus vase are placed on a wood table.gif" width="190"/></td>
+     <td class="gif_td1"><img src="images/A ginger cat is sitting on a grey leather sofa.gif" width="180"/></td>
+     <td class="gif_td2"><img src="images/The batman is laying on a brick bed.gif" width="180"/></td>
+     <td class="gif_td3"><img src="images/A brown squirrel is sitting on a bark chair.gif" width="180"/></td>
+     <td class="gif_td4"><img src="images/A blue steel lamp and a cactus vase are placed on a wood table.gif" width="180"/></td>
    </tr>
   </tbody>
 </table>
