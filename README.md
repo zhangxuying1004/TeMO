@@ -1,6 +1,8 @@
-# TeMO
+# <p align="center"> <font color=#008000>TeMO</font>: Towards <font color=#008000>Te</font>xt-Driven 3D Stylization for <font color=#008000>M</font>ulti-<font color=#008000>O</font>bject Meshes </p>
 
-The reference code for our paper [TeMO: Towards Text-Driven 3D Stylization for Multi-Object Meshes (CVPR 2024)](https://arxiv.org/pdf/2312.04248.pdf) is coming soon.
+#####  <p align="center"> [Xuying Zhang](), [Bowen Yin](), [Yuming Chen](), [Lin Zheng](), Yuheng Li, [Qibin Hou](), [Ming-Ming Cheng]()</p>
+
+#### <p align="center"> [Paper Link](https://arxiv.org/pdf/2312.04248.pdf), accepted by <font color=#dd0000>CVPR 2024</font></p>
 
 
 ## 📖 Citation
