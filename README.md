@@ -27,9 +27,9 @@
 conda env create --file temo.yml
 conda activate temo
 ```
-**Note1**: The below installation will fail if run on something other than a CUDA GPU machine. 
-**Note2**: Installing clip by referring to [link](https://github.com/openai/CLIP.git).  
-**Note3**: Installing kaolin by referring to [link](https://github.com/NVIDIAGameWorks/kaolin). If saying something like nvcc not found, you may need to set your CUDA_HOME environment variable to the 11.3 folder i.e. export CUDA_HOME=/usr/local/cuda-11.3, then retuning the installation.  
+**Note1**: The below installation will fail if run on something other than a CUDA GPU machine.   
+**Note2**: Installing clip by referring to [link](https://github.com/openai/CLIP.git).    
+**Note3**: Installing kaolin by referring to [link](https://github.com/NVIDIAGameWorks/kaolin). If saying something like nvcc not found, you may need to set your CUDA_HOME environment variable to the 11.3 folder i.e. export CUDA_HOME=/usr/local/cuda-11.3, then retuning the installation.    
 **Note4**: Installing Open3D by ```pip install open3d==0.14.1```.  
 
 ## 🤖 Training and Validation
