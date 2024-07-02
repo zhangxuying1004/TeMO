@@ -22,6 +22,13 @@
   </tbody>
 </table>
 
+## TODO
+
+Recently, I have been occupied by other projects and cannot finish this repository in time. I apologize for any inconvenience caused.    
+If you are in hurry, please add my wechat via zhangxuying1004 or email me via zhangxuying1004@gmail.com. Thanks for your patience.  
+- [ ] Release of model code.
+- [ ] Release of training and testing code.
+
 ## 🛠️ Dependencies and Installation
 ```
 conda env create --file temo.yml
